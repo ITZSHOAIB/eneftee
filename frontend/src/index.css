@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  height: 100vh;
+  background: #f9f9f9;
+}
+.homepage-container {
+  margin: 0px;
+  height: 75vh;
+  background: url('./assets/images/homepage.jpg');
+  background-size: cover;
+  margin-left: -18%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-right: 15%;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
